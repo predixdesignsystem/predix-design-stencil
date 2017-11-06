@@ -15,7 +15,9 @@ To add Predix Components Master as a Library, first open your preference window 
 
 ![Selecting a library](/images/sketch-preference.png)
 
-Once you've added Predix Components Master to your Libraries, you can use the symbols to build symbols for your own Libraries or for your local documents.
+Once you've added Predix Components Master to your Libraries, you can use the symbols to build symbols for your own Libraries or for your local documents. The Predix Components will appear in its own menu item within the symbols option.
+
+![Selecting a Libraries Symbol](/images/insert-symbol.png)
 
 ## Using the Starter Kit
-The Starter Kit will have the components from the Predix Components Master as well as sample layouts. Use the Starter Kit to create symbols or pages for your product and applications.
+The Starter Kit will have the components from the Predix Components Master, components that have not been converted to symbols, and sample layouts. Use the Starter Kit to create symbols or pages for your product and applications.
