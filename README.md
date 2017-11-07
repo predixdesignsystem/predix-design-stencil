@@ -19,5 +19,7 @@ Once you've added Predix Components Master to your Libraries, you can use the sy
 
 ![Selecting a Libraries Symbol](/images/insert-symbol.png)
 
+If you are looking for more information about how Libraries work, you can find documentation [here](https://sketchapp.com/docs/libraries/)
+
 ## Using the Starter Kit
 The Starter Kit will have the components from the Predix Components Master, components that have not been converted to symbols, and sample layouts. Use the Starter Kit to create symbols or pages for your product and applications.
