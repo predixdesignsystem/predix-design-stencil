@@ -6,6 +6,8 @@ The Predix Design System starter kit is composed of symbols from the Predix Comp
 
 For a technical overview of Predix UI, and live demos of all of the components included, visit https://predix-ui.com.
 
+**PLEASE NOTE:** The repo for the Starter Kit has moved. All updates and files will be located in this repo moving forward. 
+
 ## Adding Libraries
 Please note: Sketch Libraries is only available with Sketch 47 and above.
 
@@ -25,5 +27,5 @@ If you are looking for more information about how Libraries work, you can find d
 The Starter Kit will have the components from the Predix Components Master, components that have not been converted to symbols, and sample layouts. Use the Starter Kit to create symbols or pages for your product and applications.
 
 ## Integrating the Predix Components Master Library to your Current File
-Since using Libraries fundamentally changes where the sources of your symbols come from, you will have to replace your current symbols with the symbols linked to the Libraries. [Symbol Swapper](https://github.com/sonburn/symbol-swapper) is a plug-in that will help to streamline this process. Symbol Swapper provides you with a way to select a symbol and replace it with a symbol with the same name.
-![Symbol Swapper](/images/Symbol Swapper.png)
+If you've used previous versions of the Starter Kit to build your screens, you will need to replace your symbols with those that are in the Libraries file. [Symbol Swapper](https://github.com/sonburn/symbol-swapper) is a plug-in that will help to streamline this process. Symbol Swapper provides you with a way to select a symbol and replace it with a symbol with the same name.
+![Symbol Swapper](/images/symbol-swapper.png)
