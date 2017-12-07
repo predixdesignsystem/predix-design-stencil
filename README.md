@@ -9,9 +9,11 @@ For a technical overview of Predix UI, and live demos of all of the components i
 **PLEASE NOTE:** The repo for the Starter Kit has moved. All updates and files will be located in this repo moving forward. 
 
 ## Adding Libraries
-Please note: Sketch Libraries is only available with Sketch 47 and above.
+***Sketch Libraries is only available with Sketch 47 and above.***
 
 To start using the Predix Components Master Library, you will need to clone this repository to your local environment and link the library to your file. You can follow [these instructions](https://help.github.com/articles/cloning-a-repository/) to clone this repository in your local environment.
+
+**WARNING:** Do not edit the local copy of the Predix Components Master file. If you are creating symbols, be sure to create symbols from a separate file that links to the library. Any changes to the local copy of the Predix Components Master will need to be discarded when fetching any updates.
 
 To add Predix Components Master as a Library, first open your preference window and go to the Libraries tab. Click on the “Add Library…” button that appears on the bottom right of the preference window, and choose the document from the cloned repository. Once you've added Predix Components Master as a Library, you will now be able to insert its Symbols into any of your documents.
 
