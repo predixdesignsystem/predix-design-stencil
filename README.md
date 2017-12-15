@@ -33,7 +33,7 @@ We will announce any updates to the Predix Components Master. In order for you t
 ![Fetch Latest](/images/fetch-origin.png)
 
 ## Using the Starter Kit
-The Starter Kit will have the components from the Predix Components Master, components that have not been converted to symbols, and sample layouts. Use the Starter Kit to create symbols or pages for your product and applications.
+The Starter Kit will have the components from the Predix Components Master, components that have not been converted to symbols, and sample layouts. Use the Starter Kit to create symbols or pages for your product and applications. Create or save a copy of the Starter Kit. Be sure to create or save a copy outside of the local Github repo.
 
 ## Integrating the Predix Components Master Library to your Current File
 If you've used previous versions of the Starter Kit to build your screens, you will need to replace your symbols with those that are in the Libraries file. [Symbol Swapper](https://github.com/sonburn/symbol-swapper) is a plug-in that will help to streamline this process. Symbol Swapper provides you with a way to select a symbol and replace it with a symbol with the same name.
