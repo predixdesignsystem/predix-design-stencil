@@ -6,7 +6,7 @@ The Predix Design System starter kit is composed of symbols from the Predix Comp
 
 For a technical overview of Predix UI, and live demos of all of the components included, visit https://predix-ui.com.
 
-**PLEASE NOTE:** The repo for the Starter Kit has moved. All updates and files will be located in this repo moving forward. 
+**PLEASE NOTE:** The repo for the Starter Kit has moved. All updates and files will be located in this repo moving forward.
 
 ## Adding Libraries
 ***Sketch Libraries is only available with Sketch 47 and above.***
@@ -38,3 +38,23 @@ The Starter Kit will have the components from the Predix Components Master, comp
 ## Integrating the Predix Components Master Library to your Current File
 If you've used previous versions of the Starter Kit to build your screens, you will need to replace your symbols with those that are in the Libraries file. [Symbol Swapper](https://github.com/sonburn/symbol-swapper) is a plug-in that will help to streamline this process. Symbol Swapper provides you with a way to select a symbol and replace it with a symbol with the same name.
 ![Symbol Swapper](/images/symbol-swapper.png)
+
+## Adding the Color Swatches to Sketch
+The design starter kit includes the *Predix Design System Swatches v2.clr file*. You can setup Sketch to use the Predix color palette as part of the Colors panel.
+
+1. In sketch, open the colors panel by going to View > Show Colors
+![Opening the colors panel](/images/open-colors-panel.png)
+
+The panel will show some pre-set colors from Sketch and others you might have in your system.
+
+2. Add the swatches file to your library by clicking on the gear icon > and then Open.
+![Open clr file](/images/open-clr-file.png)
+
+Select the *Predix Design System Swatches v2.clr file* file and click open.
+![Select clr file](/images/select-clr-file.png)
+
+3. You will now have the swatches available in your library for use whenever the colors panel is open.
+![Clr file visible in panel](/images/swatches-visible-in-panel.png)
+
+You can switch between the swatches in your system by clicking the swatches name dropdown and selecting an option.
+![Switch between swatches](/images/switching-between-swatches.png)
