@@ -58,3 +58,5 @@ Select the *Predix Design System Swatches v2.clr file* file and click open.
 
 You can switch between the swatches in your system by clicking the swatches name dropdown and selecting an option.
 ![Switch between swatches](/images/switching-between-swatches.png)
+
+test
