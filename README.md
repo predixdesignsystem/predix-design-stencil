@@ -40,7 +40,7 @@ If you've used previous versions of the Starter Kit to build your screens, you w
 ![Symbol Swapper](/images/symbol-swapper.png)
 
 ## Adding the Color Swatches to Sketch
-The design starter kit includes the *Predix Design System Swatches v2.clr file*. You can setup Sketch to use the Predix color palette as part of the Colors panel.
+The design starter kit includes the *Predix Design System Swatches v3.clr file*. You can setup Sketch to use the Predix color palette as part of the Colors panel.
 
 1. In sketch, open the colors panel by going to View > Show Colors
 ![Opening the colors panel](/images/open-colors-panel.png)
@@ -50,7 +50,7 @@ The panel will show some pre-set colors from Sketch and others you might have in
 2. Add the swatches file to your library by clicking on the gear icon > and then Open.
 ![Open clr file](/images/open-clr-file.png)
 
-Select the *Predix Design System Swatches v2.clr file* file and click open.
+Select the *Predix Design System Swatches v3.clr file* file and click open.
 ![Select clr file](/images/select-clr-file.png)
 
 3. You will now have the swatches available in your library for use whenever the colors panel is open.
